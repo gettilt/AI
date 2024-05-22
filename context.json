@@ -1,0 +1,614 @@
+{
+    "ADBE": {
+        "chat_gpt": "Adobe integrates AI into its creative software suite, enhancing user experience and productivity.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": []
+    },
+    "AMD": {
+        "chat_gpt": "Advanced Micro Devices produces high-performance processors and GPUs that are critical for AI workloads.",
+        "claude": "AMD offers high-performance CPUs and GPUs that are increasingly being used in AI workloads, providing an alternative to NVIDIA and Intel in the AI chip market.",
+        "search_articles": [
+            {
+                "url": "https://www.youtube.com/watch?v=2WnSOsryjlM",
+                "title": "6 AI Stocks You Might NOT Want To Miss Out On",
+                "youtube_embed_url": "https://www.youtube.com/embed/2WnSOsryjlM"
+            },
+            {
+                "url": "https://www.forbes.com/advisor/investing/best-ai-stocks/",
+                "title": "10 Best AI Stocks Of May 2024",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [
+            {
+                "url": "https://twitter.com/cdntradegrljenn/status/1791190540421308480",
+                "text": "$IVDA I like that this company company values privacy and the ethical use of AI technology. I love that they are open about these issues and the impact that they can present. Transparency and honesty go a long way with me. #AI $GOOG $META $NVDA $SNOW $PANW $AMD https://t.co/lwkZySW2X8",
+                "username": "cdntradegrljenn",
+                "user_url": "https://twitter.com/cdntradegrljenn",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1728501110380679168/H9A_ooHU_normal.jpg",
+                "date": "2024-05-16T19:34:38Z"
+            },
+            {
+                "url": "https://twitter.com/AIStockSavvy/status/1791199191198261680",
+                "text": "$AMAT | Post Market: -2% | Applied Materials' Q2 Earning Report: Revenue steady at $6.65B, EPS up to $2.06. Strong cash generation and shareholder returns! \n\n$AVGO $MRVL $ARM $ALAB $MU $SMCI $NVDA $AMD $INTC $TSM\n\n\ud83d\udc49 Financial Performance:\n\n\u27a1\ufe0f Revenue: $6.65 billion, flat year over year.\n\n\u27a1\ufe0f Diluted EPS: $2.06, up 11% year over year.\n\n\ud83d\udc49 Business Segments:\n\n\u27a1\ufe0f Semiconductor Systems Revenue: $4.90 billion, down 2% year over year.\n\n\u27a1\ufe0f Applied Global Services Revenue: $1.53 billion, up 7% year over year.\n\n\u27a1\ufe0f Display and Adjacent Markets Revenue: $179 million, up 7% year over year.\n\n\ud83d\udc49 Operating Metrics:\n\n\u27a1\ufe0f GAAP Operating Margin: 28.8%, unchanged year over year.\n\n\u27a1\ufe0f Non-GAAP Operating Margin: 29.0%, down 0.1 point year over year.\n\n\ud83d\udc49 Cost and Expenses:\n\n\u27a1\ufe0f SG&A Expenses: $456 million, up from $408 million in Q2 2023.\n\n\ud83d\udc49 Business Highlights:\n\n\u27a1\ufe0f Generated $1.39 billion in cash from operations.\n\n\u27a1\ufe0f Returned $1.09 billion to shareholders, including $820 million in share repurchases and $266 million in dividends.\n\n\ud83d\udc49 CEO Statement:\n\n\u201cApplied Materials continues to deliver strong performance in 2024, with fiscal second quarter revenue and earnings towards the high end of our guided range. Applied Materials has the most enabling portfolio of materials engineering technologies for chips that underpin tectonic shifts in technology including AI, IoT, electric vehicles and clean energy, which puts us in a great position to grow along with these long-term, secular trends.\u201d - Gary Dickerson, President and CEO.",
+                "username": "AIStockSavvy",
+                "user_url": "https://twitter.com/AIStockSavvy",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1687622783423950848/-cfzz67M_normal.jpg",
+                "date": "2024-05-16T20:09:00Z"
+            },
+            {
+                "url": "https://twitter.com/FromValue/status/1791212359265997001",
+                "text": "Oh boy!\n\nI just had a TREMENDOUS talk with Alex @TickerSymbolYOU for the Multibagger Nuggets podcast!\ud83d\udd25\ud83d\udd25\ud83d\udd25\n\nI'll prioritize this one to have it out on Monday!\n\nAlex knows so much about AI &amp; its impact on $NVDA, $AMD, $PLTR, $GOOGL, $MSFT...\n\nYou really don't want to miss this!",
+                "username": "FromValue",
+                "user_url": "https://twitter.com/FromValue",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1358123560120840194/EtyvUBE9_normal.jpg",
+                "date": "2024-05-16T21:01:20Z"
+            }
+        ]
+    },
+    "AMZN": {
+        "chat_gpt": "Amazon benefits from AI through its AWS cloud services, which offer AI and machine learning tools, and its AI-driven logistics and recommendation systems.",
+        "claude": "Amazon uses AI in its e-commerce operations, cloud services, and AI-powered devices like Alexa, giving it exposure to multiple aspects of the AI value chain.",
+        "search_articles": [
+            {
+                "url": "https://www.fool.com/investing/2024/04/30/here-are-my-3-top-artificial-intelligence-ai-stock/",
+                "title": "Here Are My 3 Top Artificial Intelligence (AI) Stocks to Buy Right Now",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.forbes.com/advisor/investing/best-ai-stocks/",
+                "title": "10 Best AI Stocks Of May 2024",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.morningstar.com/markets/ai-stocks-what-watch-q1-earnings-reports",
+                "title": "Will Earnings From These 10 AI Stocks Live Up to the Hype?",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [
+            {
+                "url": "https://twitter.com/level_options/status/1791224266232406255",
+                "text": "Daily Recap May 16\n\nMonthly Goal\n\ud83d\udc9a\ud83d\udc9a\ud83d\udc9a\ud83d\udc9a\ud83d\udc9a\ud83d\udc9a\ud83d\udc9a\ud83d\udc9a\ud83d\udc9a\ud83d\udc9b $6,000\n\nRealized P/L\nDay: $1,153\nWeek: $1,153\nMonth: $5,591\nYTD: $50,203\n\n$PYPL $COIN $MARA $HOOD $AI $SMCI $NVDA $SQ $CLSK $GOOGL $SNOW $AMZN $SOFI\n\nCommentary: Finally made some moves today and booked some profits for the week. Many trades expiring tomorrow so I am expecting a very busy day. Watching  $COST as it rallied more today, likely on $WMT earnings as a sympathy play.",
+                "username": "level_options",
+                "user_url": "https://twitter.com/level_options",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1742061829793382400/6As2OPUk_normal.jpg",
+                "date": "2024-05-16T21:48:39Z"
+            }
+        ]
+    },
+    "BABA": {
+        "chat_gpt": "Alibaba employs AI in its e-commerce platform, logistics, and cloud computing services.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": []
+    },
+    "CRM": {
+        "chat_gpt": "Salesforce uses AI to enhance its CRM software, providing advanced analytics and automation for businesses.",
+        "claude": "Salesforce incorporates AI into its cloud-based CRM and business software, using machine learning to automate and optimize various business processes.",
+        "search_articles": [],
+        "tweets": []
+    },
+    "GOOGL": {
+        "chat_gpt": "Alphabet's Google is heavily invested in AI research and development, with applications across its search engine, cloud services, and more.",
+        "claude": "Alphabet leverages AI across its products and services, from search to cloud computing, and offers AI tools and infrastructure to developers and businesses.",
+        "search_articles": [
+            {
+                "url": "https://www.youtube.com/watch?v=K0k35C2D-_4",
+                "title": "Are AI Data Stocks the Opportunity of a Lifetime?",
+                "youtube_embed_url": "https://www.youtube.com/embed/K0k35C2D-_4"
+            },
+            {
+                "url": "https://www.fool.com/investing/2024/05/14/here-are-my-top-artificial-intelligence-ai-stocks/",
+                "title": "Here Are My Top Artificial Intelligence (AI) Stocks to Buy Right Now",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": []
+    },
+    "IBM": {
+        "chat_gpt": "IBM is a pioneer in AI with its Watson platform, which offers AI solutions for various industries.",
+        "claude": "IBM provides AI software, services, and infrastructure to enterprises, leveraging its extensive experience in IT to help businesses adopt and implement AI solutions.",
+        "search_articles": [
+            {
+                "url": "https://www.investopedia.com/best-ai-stocks-8549813",
+                "title": "Best AI Stocks for May 2024",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": []
+    },
+    "INTC": {
+        "chat_gpt": "Intel provides processors and AI accelerators that are crucial for data centers and AI applications.",
+        "claude": "Intel is developing AI-optimized processors and software tools, leveraging its expertise in chip design to capture a share of the growing AI market.",
+        "search_articles": [
+            {
+                "url": "https://www.fool.com/investing/2024/04/30/here-are-my-3-top-artificial-intelligence-ai-stock/",
+                "title": "Here Are My 3 Top Artificial Intelligence (AI) Stocks to Buy Right Now",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.fool.com/investing/2024/04/21/my-top-ai-stocks-to-buy-for-100-dollars/",
+                "title": "My Top Artificial Intelligence (AI) Stocks to Buy Now with ...",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.morningstar.com/markets/ai-stocks-what-watch-q1-earnings-reports",
+                "title": "Will Earnings From These 10 AI Stocks Live Up to the Hype?",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": []
+    },
+    "MSFT": {
+        "chat_gpt": "Microsoft is a major player in AI through its Azure cloud platform and AI-driven products like Cortana and Office 365.",
+        "claude": "Microsoft integrates AI into its software and cloud services, while also developing AI infrastructure and tools for enterprises, positioning it to benefit from the AI trend.",
+        "search_articles": [
+            {
+                "url": "https://www.youtube.com/watch?v=K0k35C2D-_4",
+                "title": "Are AI Data Stocks the Opportunity of a Lifetime?",
+                "youtube_embed_url": "https://www.youtube.com/embed/K0k35C2D-_4"
+            },
+            {
+                "url": "https://www.morningstar.com/markets/ai-stocks-what-watch-q1-earnings-reports",
+                "title": "Will Earnings From These 10 AI Stocks Live Up to the Hype?",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": []
+    },
+    "NFLX": {
+        "chat_gpt": "Netflix uses AI for content recommendation and optimization, improving user engagement and retention.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": []
+    },
+    "NVDA": {
+        "chat_gpt": "NVIDIA is a leading manufacturer of GPUs, which are essential for AI processing and machine learning applications.",
+        "claude": "NVIDIA is a leading provider of GPUs that are widely used in AI and machine learning applications, making it well-positioned to benefit from the growing demand for AI hardware.",
+        "search_articles": [
+            {
+                "url": "https://www.youtube.com/watch?v=2WnSOsryjlM",
+                "title": "6 AI Stocks You Might NOT Want To Miss Out On",
+                "youtube_embed_url": "https://www.youtube.com/embed/2WnSOsryjlM"
+            },
+            {
+                "url": "https://www.nerdwallet.com/article/investing/ai-stocks-invest-in-artificial-intelligence",
+                "title": "7 Top AI Stocks: May 2024",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.investopedia.com/best-ai-stocks-8549813",
+                "title": "Best AI Stocks for May 2024",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [
+            {
+                "url": "https://twitter.com/amitisinvesting/status/1791126686852915614",
+                "text": "BREAKING: Stanley Druckenmiller has disclosed a new position in $PLTR Palantir with 770K shares at an average of $21.30.\n\nHe was one of their first investors but sold at $8 \u2014 which wasn\u2019t the worst move since he took that money and put it into $NVDA at $150.\n\nHe now has sold 71% of his Nvidia position and bought back into $PLTR.\n\nStanely did a talk with Alex Karp in 2022 where he called him \u201ca visionary, remarkably similar to Steve Jobs.\u201d\n\nWELCOME BACK STAN. LFG.",
+                "username": "amitisinvesting",
+                "user_url": "https://twitter.com/amitisinvesting",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1691241014659301377/yybT0mFC_normal.jpg",
+                "date": "2024-05-16T15:20:54Z"
+            },
+            {
+                "url": "https://twitter.com/AlphaSenseInc/status/1791107731924881468",
+                "text": "Former $NVDA employee shares his insight into the industry and $NVDA specific:\n\n- $NVDA's moat is CUDA. It's the reason why everybody says; okay we'll just use $NVDA. The math behind LLMs that is being used right now has been around for many years, but making that work required hardware of speed that has only existed recently.\n\n- ChatGPT started the gold rush. Now, everyone needs AI accelerators. He thinks that you will have many companies offering inference chips, but $NVDA doesn't necessarily want to be in that market segment.\n\n- He explains in simple terms what CoWoS is and how it emerged over the years because of the need for more complex chips.\n\n- He sees the whole AI wave at two speeds. The hardware side moves slowly every year, while the software side makes fast advancements every week with open source.\n\n- He doesn't believe there is a moat for many AI startups because the big companies can make your product irrelevant.",
+                "username": "AlphaSenseInc",
+                "user_url": "https://twitter.com/AlphaSenseInc",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1676568447776440321/_9_XIP8N_normal.jpg",
+                "date": "2024-05-16T14:05:35Z"
+            },
+            {
+                "url": "https://twitter.com/Altcoin_Jim/status/1791154290477666733",
+                "text": "$TRAC @origin_trail &amp; @nvidia $NVDA\n\nBig \ud83d\udd25\nThis is the strongest #AI project in crypto and the funny thing is it's just one spoke in the decentralised knowledge graphs wheel.  #DePin #RWA #DeSci \n\nSee for yourself: https://t.co/1qxiuazNUw",
+                "username": "Altcoin_Jim",
+                "user_url": "https://twitter.com/Altcoin_Jim",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1732116455187988480/Efo6Q2nA_normal.jpg",
+                "date": "2024-05-16T17:10:35Z"
+            }
+        ]
+    },
+    "ORCL": {
+        "chat_gpt": "Oracle benefits from AI through its cloud services and AI-driven database management systems.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": []
+    },
+    "PLTR": {
+        "chat_gpt": "Palantir Technologies offers AI-driven data analytics platforms for government and commercial clients.",
+        "claude": "Palantir Technologies develops AI-driven data analytics platforms for government and commercial clients, helping organizations make sense of vast amounts of data.",
+        "search_articles": [],
+        "tweets": []
+    },
+    "SNOW": {
+        "chat_gpt": "Snowflake provides cloud-based data warehousing solutions that leverage AI for data analytics and management.",
+        "claude": "Snowflake offers a cloud-based data platform that enables AI and machine learning workloads, making it easier for businesses to store, manage, and analyze data for AI applications.",
+        "search_articles": [],
+        "tweets": [
+            {
+                "url": "https://twitter.com/cdntradegrljenn/status/1791190540421308480",
+                "text": "$IVDA I like that this company company values privacy and the ethical use of AI technology. I love that they are open about these issues and the impact that they can present. Transparency and honesty go a long way with me. #AI $GOOG $META $NVDA $SNOW $PANW $AMD https://t.co/lwkZySW2X8",
+                "username": "cdntradegrljenn",
+                "user_url": "https://twitter.com/cdntradegrljenn",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1728501110380679168/H9A_ooHU_normal.jpg",
+                "date": "2024-05-16T19:34:38Z"
+            },
+            {
+                "url": "https://twitter.com/level_options/status/1791224266232406255",
+                "text": "Daily Recap May 16\n\nMonthly Goal\n\ud83d\udc9a\ud83d\udc9a\ud83d\udc9a\ud83d\udc9a\ud83d\udc9a\ud83d\udc9a\ud83d\udc9a\ud83d\udc9a\ud83d\udc9a\ud83d\udc9b $6,000\n\nRealized P/L\nDay: $1,153\nWeek: $1,153\nMonth: $5,591\nYTD: $50,203\n\n$PYPL $COIN $MARA $HOOD $AI $SMCI $NVDA $SQ $CLSK $GOOGL $SNOW $AMZN $SOFI\n\nCommentary: Finally made some moves today and booked some profits for the week. Many trades expiring tomorrow so I am expecting a very busy day. Watching  $COST as it rallied more today, likely on $WMT earnings as a sympathy play.",
+                "username": "level_options",
+                "user_url": "https://twitter.com/level_options",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1742061829793382400/6As2OPUk_normal.jpg",
+                "date": "2024-05-16T21:48:39Z"
+            }
+        ]
+    },
+    "SQ": {
+        "chat_gpt": "Square leverages AI for fraud detection, customer insights, and financial services.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": []
+    },
+    "TSLA": {
+        "chat_gpt": "Tesla uses AI for its autonomous driving technology and energy solutions, making it a direct beneficiary of AI advancements.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.investors.com/news/lidar-stock-tesla-autonomous-driving/",
+                "title": "This Lidar Stock Is Surging While Tesla Looks To Build Self-Driving Data \nCenter In China",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.forbes.com/advisor/investing/best-ai-stocks/",
+                "title": "10 Best AI Stocks Of May 2024",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": []
+    },
+    "AI": {
+        "chat_gpt": null,
+        "claude": "C3.ai provides enterprise AI software for various industries, offering a comprehensive platform for developing and deploying AI applications.",
+        "search_articles": [
+            {
+                "url": "https://www.forbes.com/advisor/investing/best-ai-stocks/",
+                "title": "10 Best AI Stocks Of May 2024",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": []
+    },
+    "AMAT": {
+        "chat_gpt": null,
+        "claude": "Applied Materials supplies equipment used in the manufacturing of AI chips, benefiting from the expanding production of these specialized processors.",
+        "search_articles": [],
+        "tweets": []
+    },
+    "ASML": {
+        "chat_gpt": null,
+        "claude": "ASML Holding offers advanced lithography systems that are crucial for the production of cutting-edge AI chips, making it a key beneficiary of the AI chip boom.",
+        "search_articles": [],
+        "tweets": []
+    },
+    "DLR": {
+        "chat_gpt": null,
+        "claude": "Digital Realty Trust owns and operates data centers that host AI workloads and support AI-driven businesses, benefiting from the growing demand for AI infrastructure.",
+        "search_articles": [
+            {
+                "url": "https://www.youtube.com/watch?v=FAByJSoiM-A",
+                "title": "AI will trigger 'hyper-scale demand' of data centers, says ...",
+                "youtube_embed_url": "https://www.youtube.com/embed/FAByJSoiM-A"
+            },
+            {
+                "url": "https://www.nasdaq.com/articles/5-top-ai-stocks-for-data-center-exposure",
+                "title": "5 Top AI Stocks for Data Center Exposure",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.techopedia.com/investing/best-data-center-stocks",
+                "title": "Best Data Center Stocks for 2024",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": []
+    },
+    "EQIX": {
+        "chat_gpt": null,
+        "claude": "Equinix operates data centers that support AI infrastructure and connectivity, providing the foundation for businesses to run AI workloads and collaborate on AI projects.",
+        "search_articles": [
+            {
+                "url": "https://www.techopedia.com/investing/best-data-center-stocks",
+                "title": "Best Data Center Stocks for 2024",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": []
+    },
+    "LRCX": {
+        "chat_gpt": null,
+        "claude": "Lam Research provides chip manufacturing equipment, experiencing growth as chipmakers ramp up production of AI-optimized chips.",
+        "search_articles": [],
+        "tweets": []
+    },
+    "MU": {
+        "chat_gpt": null,
+        "claude": "Micron Technology manufactures memory chips that are essential components in AI systems and data centers, seeing increased demand as AI adoption grows.",
+        "search_articles": [],
+        "tweets": []
+    },
+    "QCOM": {
+        "chat_gpt": null,
+        "claude": "Qualcomm produces AI-enabled chips for mobile devices and edge computing, benefiting from the proliferation of AI in smartphones and IoT devices.",
+        "search_articles": [],
+        "tweets": []
+    },
+    "AMC": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [],
+        "tweets": [
+            {
+                "url": "https://twitter.com/InvestorVenture/status/1791250168974578105",
+                "text": "$CRNC Possible #Buyout Coming!\n\nIn my opinion the NEW CFO who started in March 2024 was just forced out after making some bad decisions on the Last Earnings Call!\n\n$332mm in Revs\nAdj EBITDA of $72mm\nFYE 09/2024\nQ2 Adj EBITDA $11mm\nBV $11.50\n\n$GME $BB $AMC\nhttps://t.co/rn9wkYnqRO https://t.co/B7Hb6YJQtp",
+                "username": "InvestorVenture",
+                "user_url": "https://twitter.com/InvestorVenture",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1540882890258538497/A7He-CNh_normal.jpg",
+                "date": "2024-05-16T23:31:34Z"
+            },
+            {
+                "url": "https://twitter.com/InvestorVenture/status/1791252070999175339",
+                "text": "RT $CRNC Large Block Buys &amp; Volume right ahead of SEC Filing of #CFO Resignation\n\nBUYOUT Looks likely on this severely undervalued #Ai Co that has Technology in 54% of all automobiles manufactured globally!\n\nPartnered with $Nvda #Nvidia $Msft #Microsoft &amp; $Amzn #Amazon\n\n$GME $AMC",
+                "username": "InvestorVenture",
+                "user_url": "https://twitter.com/InvestorVenture",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1540882890258538497/A7He-CNh_normal.jpg",
+                "date": "2024-05-16T23:39:08Z"
+            }
+        ]
+    },
+    "ARM": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [],
+        "tweets": [
+            {
+                "url": "https://twitter.com/AIStockSavvy/status/1791199191198261680",
+                "text": "$AMAT | Post Market: -2% | Applied Materials' Q2 Earning Report: Revenue steady at $6.65B, EPS up to $2.06. Strong cash generation and shareholder returns! \n\n$AVGO $MRVL $ARM $ALAB $MU $SMCI $NVDA $AMD $INTC $TSM\n\n\ud83d\udc49 Financial Performance:\n\n\u27a1\ufe0f Revenue: $6.65 billion, flat year over year.\n\n\u27a1\ufe0f Diluted EPS: $2.06, up 11% year over year.\n\n\ud83d\udc49 Business Segments:\n\n\u27a1\ufe0f Semiconductor Systems Revenue: $4.90 billion, down 2% year over year.\n\n\u27a1\ufe0f Applied Global Services Revenue: $1.53 billion, up 7% year over year.\n\n\u27a1\ufe0f Display and Adjacent Markets Revenue: $179 million, up 7% year over year.\n\n\ud83d\udc49 Operating Metrics:\n\n\u27a1\ufe0f GAAP Operating Margin: 28.8%, unchanged year over year.\n\n\u27a1\ufe0f Non-GAAP Operating Margin: 29.0%, down 0.1 point year over year.\n\n\ud83d\udc49 Cost and Expenses:\n\n\u27a1\ufe0f SG&A Expenses: $456 million, up from $408 million in Q2 2023.\n\n\ud83d\udc49 Business Highlights:\n\n\u27a1\ufe0f Generated $1.39 billion in cash from operations.\n\n\u27a1\ufe0f Returned $1.09 billion to shareholders, including $820 million in share repurchases and $266 million in dividends.\n\n\ud83d\udc49 CEO Statement:\n\n\u201cApplied Materials continues to deliver strong performance in 2024, with fiscal second quarter revenue and earnings towards the high end of our guided range. Applied Materials has the most enabling portfolio of materials engineering technologies for chips that underpin tectonic shifts in technology including AI, IoT, electric vehicles and clean energy, which puts us in a great position to grow along with these long-term, secular trends.\u201d - Gary Dickerson, President and CEO.",
+                "username": "AIStockSavvy",
+                "user_url": "https://twitter.com/AIStockSavvy",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1687622783423950848/-cfzz67M_normal.jpg",
+                "date": "2024-05-16T20:09:00Z"
+            },
+            {
+                "url": "https://twitter.com/AIStockSavvy/status/1791150683107807696",
+                "text": "\ud83d\udce3 JUST IN: $TM Toyota, $NSANY Nissan, and $HMC Honda Collaborate on AI and Chips for Next-Gen Cars \n\n$TSLA $ARM $SOUN $NVDA $NIO $XPEV $LI $TSM\n\n\ud83d\udc49 Key Highlights:\n\n\ud83d\udccd Toyota, Nissan, and Honda to collaborate on next-gen vehicle software.\n\n\ud83d\udccd Partnership aims to lower development costs and boost competitiveness.\n\n\ud83d\udccd Focus areas: chips, APIs, virtual simulation, generative AI, and cyber security.\n\n\ud83d\udccd High-precision 3D maps and distance measurement tech included in collaboration.\n\n\ud83d\udccd Standardization in seven areas to avoid cost and development time increases.\n\n\ud83d\udccd Japanese Ministry of Economy, Trade, and Industry to announce strategy.\n\n\ud83d\udccd SDVs from Toyota, Nissan, and others expected from 2025.\n\n\ud83d\udccd Software updates to improve vehicle functionality, similar to smartphones.\n\n\ud83d\udccd Goal: enhance global competitiveness and market expansion for Japanese automakers.\n\n\ud83d\udc49 Context/Background:\n\nToyota, Nissan, and Honda are teaming up to develop software for next-generation vehicles, focusing on areas like AI, semiconductors, and autonomous driving technology. This collaboration is part of Japan's strategy for digital transformation in the auto industry, aiming to stay competitive in a rapidly evolving market.\n\n\ud83d\udc49 Why This Matters:\n\n\ud83d\udccd This collaboration represents a significant step towards the future of automotive technology, focusing on software-defined vehicles.\n\n\ud83d\udccd Standardization and joint efforts can streamline development, reduce costs, and enhance global competitiveness.\n\n\ud83d\udc49 Market Insights:\n\n\ud83d\udccd Collaboration may accelerate the adoption of advanced automotive technologies and create new revenue streams from software updates.\n\n\ud83d\udccd Japanese automakers can strengthen their market position and innovation capabilities.\n\n\ud83d\udc49 Impact & Recommendations:\n\n\ud83d\udccd Investors should monitor developments in this collaboration for potential market shifts.\n\n\ud83d\udccd Watch for advancements in software-defined vehicle technology and its impact on the automotive industry.\n\n\ud83d\udd04 Follow @AIStockSavvy for real-time updates. Don\u2019t forget to like, retweet, and turn on notifications for unparalleled insights.",
+                "username": "AIStockSavvy",
+                "user_url": "https://twitter.com/AIStockSavvy",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1687622783423950848/-cfzz67M_normal.jpg",
+                "date": "2024-05-16T16:56:15Z"
+            },
+            {
+                "url": "https://twitter.com/Sagitorius711/status/1791233016951713834",
+                "text": "$NVDA $QCOM $ARM $TSLA $MU $SPY $QQQ $AVGO $AMD ALL OF JAPAN'S LITERAL GENERAL AI INFRASTRUCTURE WILL BE BASED ON @nvidia 's Blueprint and framework along with partners.",
+                "username": "Sagitorius711",
+                "user_url": "https://twitter.com/Sagitorius711",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1725882771669966848/w0Lwq0NP_normal.jpg",
+                "date": "2024-05-16T22:23:25Z"
+            }
+        ]
+    },
+    "CRNC": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [],
+        "tweets": [
+            {
+                "url": "https://twitter.com/InvestorVenture/status/1791252070999175339",
+                "text": "RT $CRNC Large Block Buys &amp; Volume right ahead of SEC Filing of #CFO Resignation\n\nBUYOUT Looks likely on this severely undervalued #Ai Co that has Technology in 54% of all automobiles manufactured globally!\n\nPartnered with $Nvda #Nvidia $Msft #Microsoft &amp; $Amzn #Amazon\n\n$GME $AMC",
+                "username": "InvestorVenture",
+                "user_url": "https://twitter.com/InvestorVenture",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1540882890258538497/A7He-CNh_normal.jpg",
+                "date": "2024-05-16T23:39:08Z"
+            },
+            {
+                "url": "https://twitter.com/InvestorVenture/status/1791250168974578105",
+                "text": "$CRNC Possible #Buyout Coming!\n\nIn my opinion the NEW CFO who started in March 2024 was just forced out after making some bad decisions on the Last Earnings Call!\n\n$332mm in Revs\nAdj EBITDA of $72mm\nFYE 09/2024\nQ2 Adj EBITDA $11mm\nBV $11.50\n\n$GME $BB $AMC\nhttps://t.co/rn9wkYnqRO https://t.co/B7Hb6YJQtp",
+                "username": "InvestorVenture",
+                "user_url": "https://twitter.com/InvestorVenture",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1540882890258538497/A7He-CNh_normal.jpg",
+                "date": "2024-05-16T23:31:34Z"
+            }
+        ]
+    },
+    "GME": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [],
+        "tweets": [
+            {
+                "url": "https://twitter.com/InvestorVenture/status/1791250168974578105",
+                "text": "$CRNC Possible #Buyout Coming!\n\nIn my opinion the NEW CFO who started in March 2024 was just forced out after making some bad decisions on the Last Earnings Call!\n\n$332mm in Revs\nAdj EBITDA of $72mm\nFYE 09/2024\nQ2 Adj EBITDA $11mm\nBV $11.50\n\n$GME $BB $AMC\nhttps://t.co/rn9wkYnqRO https://t.co/B7Hb6YJQtp",
+                "username": "InvestorVenture",
+                "user_url": "https://twitter.com/InvestorVenture",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1540882890258538497/A7He-CNh_normal.jpg",
+                "date": "2024-05-16T23:31:34Z"
+            },
+            {
+                "url": "https://twitter.com/InvestorVenture/status/1791252070999175339",
+                "text": "RT $CRNC Large Block Buys &amp; Volume right ahead of SEC Filing of #CFO Resignation\n\nBUYOUT Looks likely on this severely undervalued #Ai Co that has Technology in 54% of all automobiles manufactured globally!\n\nPartnered with $Nvda #Nvidia $Msft #Microsoft &amp; $Amzn #Amazon\n\n$GME $AMC",
+                "username": "InvestorVenture",
+                "user_url": "https://twitter.com/InvestorVenture",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1540882890258538497/A7He-CNh_normal.jpg",
+                "date": "2024-05-16T23:39:08Z"
+            }
+        ]
+    },
+    "SMCI": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.investopedia.com/best-ai-stocks-8549813",
+                "title": "Best AI Stocks for May 2024",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [
+            {
+                "url": "https://twitter.com/AIStockSavvy/status/1791199191198261680",
+                "text": "$AMAT | Post Market: -2% | Applied Materials' Q2 Earning Report: Revenue steady at $6.65B, EPS up to $2.06. Strong cash generation and shareholder returns! \n\n$AVGO $MRVL $ARM $ALAB $MU $SMCI $NVDA $AMD $INTC $TSM\n\n\ud83d\udc49 Financial Performance:\n\n\u27a1\ufe0f Revenue: $6.65 billion, flat year over year.\n\n\u27a1\ufe0f Diluted EPS: $2.06, up 11% year over year.\n\n\ud83d\udc49 Business Segments:\n\n\u27a1\ufe0f Semiconductor Systems Revenue: $4.90 billion, down 2% year over year.\n\n\u27a1\ufe0f Applied Global Services Revenue: $1.53 billion, up 7% year over year.\n\n\u27a1\ufe0f Display and Adjacent Markets Revenue: $179 million, up 7% year over year.\n\n\ud83d\udc49 Operating Metrics:\n\n\u27a1\ufe0f GAAP Operating Margin: 28.8%, unchanged year over year.\n\n\u27a1\ufe0f Non-GAAP Operating Margin: 29.0%, down 0.1 point year over year.\n\n\ud83d\udc49 Cost and Expenses:\n\n\u27a1\ufe0f SG&A Expenses: $456 million, up from $408 million in Q2 2023.\n\n\ud83d\udc49 Business Highlights:\n\n\u27a1\ufe0f Generated $1.39 billion in cash from operations.\n\n\u27a1\ufe0f Returned $1.09 billion to shareholders, including $820 million in share repurchases and $266 million in dividends.\n\n\ud83d\udc49 CEO Statement:\n\n\u201cApplied Materials continues to deliver strong performance in 2024, with fiscal second quarter revenue and earnings towards the high end of our guided range. Applied Materials has the most enabling portfolio of materials engineering technologies for chips that underpin tectonic shifts in technology including AI, IoT, electric vehicles and clean energy, which puts us in a great position to grow along with these long-term, secular trends.\u201d - Gary Dickerson, President and CEO.",
+                "username": "AIStockSavvy",
+                "user_url": "https://twitter.com/AIStockSavvy",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1687622783423950848/-cfzz67M_normal.jpg",
+                "date": "2024-05-16T20:09:00Z"
+            },
+            {
+                "url": "https://twitter.com/level_options/status/1791224266232406255",
+                "text": "Daily Recap May 16\n\nMonthly Goal\n\ud83d\udc9a\ud83d\udc9a\ud83d\udc9a\ud83d\udc9a\ud83d\udc9a\ud83d\udc9a\ud83d\udc9a\ud83d\udc9a\ud83d\udc9a\ud83d\udc9b $6,000\n\nRealized P/L\nDay: $1,153\nWeek: $1,153\nMonth: $5,591\nYTD: $50,203\n\n$PYPL $COIN $MARA $HOOD $AI $SMCI $NVDA $SQ $CLSK $GOOGL $SNOW $AMZN $SOFI\n\nCommentary: Finally made some moves today and booked some profits for the week. Many trades expiring tomorrow so I am expecting a very busy day. Watching  $COST as it rallied more today, likely on $WMT earnings as a sympathy play.",
+                "username": "level_options",
+                "user_url": "https://twitter.com/level_options",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1742061829793382400/6As2OPUk_normal.jpg",
+                "date": "2024-05-16T21:48:39Z"
+            }
+        ]
+    },
+    "TSM": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.fool.com/investing/2024/05/14/here-are-my-top-artificial-intelligence-ai-stocks/",
+                "title": "Here Are My Top Artificial Intelligence (AI) Stocks to Buy Right Now",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.fool.com/investing/2024/05/17/forget-nvidia-this-is-the-only-ai-stock-you-need/",
+                "title": "Forget Nvidia, This Is the Only AI Stock You Need",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [
+            {
+                "url": "https://twitter.com/AIStockSavvy/status/1791199191198261680",
+                "text": "$AMAT | Post Market: -2% | Applied Materials' Q2 Earning Report: Revenue steady at $6.65B, EPS up to $2.06. Strong cash generation and shareholder returns! \n\n$AVGO $MRVL $ARM $ALAB $MU $SMCI $NVDA $AMD $INTC $TSM\n\n\ud83d\udc49 Financial Performance:\n\n\u27a1\ufe0f Revenue: $6.65 billion, flat year over year.\n\n\u27a1\ufe0f Diluted EPS: $2.06, up 11% year over year.\n\n\ud83d\udc49 Business Segments:\n\n\u27a1\ufe0f Semiconductor Systems Revenue: $4.90 billion, down 2% year over year.\n\n\u27a1\ufe0f Applied Global Services Revenue: $1.53 billion, up 7% year over year.\n\n\u27a1\ufe0f Display and Adjacent Markets Revenue: $179 million, up 7% year over year.\n\n\ud83d\udc49 Operating Metrics:\n\n\u27a1\ufe0f GAAP Operating Margin: 28.8%, unchanged year over year.\n\n\u27a1\ufe0f Non-GAAP Operating Margin: 29.0%, down 0.1 point year over year.\n\n\ud83d\udc49 Cost and Expenses:\n\n\u27a1\ufe0f SG&A Expenses: $456 million, up from $408 million in Q2 2023.\n\n\ud83d\udc49 Business Highlights:\n\n\u27a1\ufe0f Generated $1.39 billion in cash from operations.\n\n\u27a1\ufe0f Returned $1.09 billion to shareholders, including $820 million in share repurchases and $266 million in dividends.\n\n\ud83d\udc49 CEO Statement:\n\n\u201cApplied Materials continues to deliver strong performance in 2024, with fiscal second quarter revenue and earnings towards the high end of our guided range. Applied Materials has the most enabling portfolio of materials engineering technologies for chips that underpin tectonic shifts in technology including AI, IoT, electric vehicles and clean energy, which puts us in a great position to grow along with these long-term, secular trends.\u201d - Gary Dickerson, President and CEO.",
+                "username": "AIStockSavvy",
+                "user_url": "https://twitter.com/AIStockSavvy",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1687622783423950848/-cfzz67M_normal.jpg",
+                "date": "2024-05-16T20:09:00Z"
+            },
+            {
+                "url": "https://twitter.com/AIStockSavvy/status/1791150683107807696",
+                "text": "\ud83d\udce3 JUST IN: $TM Toyota, $NSANY Nissan, and $HMC Honda Collaborate on AI and Chips for Next-Gen Cars \n\n$TSLA $ARM $SOUN $NVDA $NIO $XPEV $LI $TSM\n\n\ud83d\udc49 Key Highlights:\n\n\ud83d\udccd Toyota, Nissan, and Honda to collaborate on next-gen vehicle software.\n\n\ud83d\udccd Partnership aims to lower development costs and boost competitiveness.\n\n\ud83d\udccd Focus areas: chips, APIs, virtual simulation, generative AI, and cyber security.\n\n\ud83d\udccd High-precision 3D maps and distance measurement tech included in collaboration.\n\n\ud83d\udccd Standardization in seven areas to avoid cost and development time increases.\n\n\ud83d\udccd Japanese Ministry of Economy, Trade, and Industry to announce strategy.\n\n\ud83d\udccd SDVs from Toyota, Nissan, and others expected from 2025.\n\n\ud83d\udccd Software updates to improve vehicle functionality, similar to smartphones.\n\n\ud83d\udccd Goal: enhance global competitiveness and market expansion for Japanese automakers.\n\n\ud83d\udc49 Context/Background:\n\nToyota, Nissan, and Honda are teaming up to develop software for next-generation vehicles, focusing on areas like AI, semiconductors, and autonomous driving technology. This collaboration is part of Japan's strategy for digital transformation in the auto industry, aiming to stay competitive in a rapidly evolving market.\n\n\ud83d\udc49 Why This Matters:\n\n\ud83d\udccd This collaboration represents a significant step towards the future of automotive technology, focusing on software-defined vehicles.\n\n\ud83d\udccd Standardization and joint efforts can streamline development, reduce costs, and enhance global competitiveness.\n\n\ud83d\udc49 Market Insights:\n\n\ud83d\udccd Collaboration may accelerate the adoption of advanced automotive technologies and create new revenue streams from software updates.\n\n\ud83d\udccd Japanese automakers can strengthen their market position and innovation capabilities.\n\n\ud83d\udc49 Impact & Recommendations:\n\n\ud83d\udccd Investors should monitor developments in this collaboration for potential market shifts.\n\n\ud83d\udccd Watch for advancements in software-defined vehicle technology and its impact on the automotive industry.\n\n\ud83d\udd04 Follow @AIStockSavvy for real-time updates. Don\u2019t forget to like, retweet, and turn on notifications for unparalleled insights.",
+                "username": "AIStockSavvy",
+                "user_url": "https://twitter.com/AIStockSavvy",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1687622783423950848/-cfzz67M_normal.jpg",
+                "date": "2024-05-16T16:56:15Z"
+            },
+            {
+                "url": "https://twitter.com/QualityInvest5/status/1791238212335063334",
+                "text": "Just like selling picks and shovels during a gold rush, investing in Wafer Fabrication Equipment (WFE) companies like $KLAC and $ASML puts you at the forefront of the AI revolution alongside giants like $TSM and $NVDA.\n\nThese companies are the backbone of AI technology, providing essential equipment for its advancement.\nInterested to learn more about them? Lucky for you I just put out a video that's linked in the \ud83e\uddf5\ud83d\udc47",
+                "username": "QualityInvest5",
+                "user_url": "https://twitter.com/QualityInvest5",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1784753199057977344/2teq35LR_normal.jpg",
+                "date": "2024-05-16T22:44:04Z"
+            }
+        ]
+    },
+    "ANET": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.techopedia.com/investing/best-data-center-stocks",
+                "title": "Best Data Center Stocks for 2024",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.forbes.com/advisor/investing/best-ai-stocks/",
+                "title": "10 Best AI Stocks Of May 2024",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://investorplace.com/2024/05/the-3-best-data-center-stocks-to-capitalize-on-the-ai-craze/",
+                "title": "The 3 Best Data Center Stocks to Capitalize on the AI Craze",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": []
+    },
+    "CRWD": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.fool.com/investing/2024/05/16/forget-nvidia-2-artificial-intelligence-ai-stocks/",
+                "title": "Forget Nvidia: 2 Artificial Intelligence (AI) Stocks to Buy Now",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://ai-index.info/",
+                "title": "AI-INDEX | Stock Market Barometer for AI companies",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": []
+    },
+    "NOW": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.investopedia.com/best-ai-stocks-8549813",
+                "title": "Best AI Stocks for May 2024",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.forbes.com/advisor/investing/best-ai-stocks/",
+                "title": "10 Best AI Stocks Of May 2024",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://ai-index.info/",
+                "title": "AI-INDEX | Stock Market Barometer for AI companies",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": []
+    },
+    "PANW": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.forbes.com/advisor/investing/best-ai-stocks/",
+                "title": "10 Best AI Stocks Of May 2024",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://ai-index.info/",
+                "title": "AI-INDEX | Stock Market Barometer for AI companies",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": []
+    },
+    "SOUN": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.fool.com/investing/2024/05/15/nvidia-recently-bought-5-ai-stocks-and-1-soaring/",
+                "title": "Nvidia Recently Bought 5 Artificial Intelligence (AI) Stocks, and 1 Is \nAbsolutely Soaring",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.nerdwallet.com/article/investing/ai-stocks-invest-in-artificial-intelligence",
+                "title": "7 Top AI Stocks: May 2024",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": []
+    }
+}
