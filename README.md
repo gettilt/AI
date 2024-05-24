@@ -62,11 +62,8 @@ with open('theme.csv') as file:
 | CRM | Salesforce uses AI to enhance its CRM software, providing advanced analytics and automation for businesses. | chat_gpt,claude |
 | GOOGL | Alphabet's Google is heavily invested in AI research and development, with applications across its search engine, cloud services, and more. | chat_gpt,claude,google |
 | IBM | IBM is a pioneer in AI with its Watson platform, which offers AI solutions for various industries. | chat_gpt,claude,google |
-| INTC | Intel provides processors and AI accelerators that are crucial for data centers and AI applications. | chat_gpt,claude,google |
 | MSFT | Microsoft is a major player in AI through its Azure cloud platform and AI-driven products like Cortana and Office 365. | chat_gpt,claude,google |
-| NFLX | Netflix uses AI for content recommendation and optimization, improving user engagement and retention. | chat_gpt |
 | NVDA | NVIDIA is a leading manufacturer of GPUs, which are essential for AI processing and machine learning applications. | chat_gpt,claude,twitter,google |
-| ORCL | Oracle benefits from AI through its cloud services and AI-driven database management systems. | chat_gpt |
 | PLTR | Palantir Technologies offers AI-driven data analytics platforms for government and commercial clients. | chat_gpt,claude |
 | SNOW | Snowflake provides cloud-based data warehousing solutions that leverage AI for data analytics and management. | chat_gpt,claude,twitter |
 | SQ | Square leverages AI for fraud detection, customer insights, and financial services. | chat_gpt |
@@ -79,17 +76,17 @@ with open('theme.csv') as file:
 | LRCX | Lam Research provides chip manufacturing equipment, experiencing growth as chipmakers ramp up production of AI-optimized chips. | claude |
 | MU | Micron Technology manufactures memory chips that are essential components in AI systems and data centers, seeing increased demand as AI adoption grows. | claude |
 | QCOM | Qualcomm produces AI-enabled chips for mobile devices and edge computing, benefiting from the proliferation of AI in smartphones and IoT devices. | claude |
-| AMC |  | twitter |
 | ARM |  | twitter |
 | CRNC |  | twitter |
-| GME |  | twitter |
 | SMCI |  | twitter,google |
 | TSM |  | twitter,google |
 | ANET |  | google |
 | CRWD |  | google |
-| NOW |  | google |
 | PANW |  | google |
 | SOUN |  | google |
+| DELL |  | experts |
+| CEG |  | experts |
+| ETN |  | experts |
 <!--[[[end]]]-->
 
 ## License
