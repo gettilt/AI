@@ -610,5 +610,41 @@
             }
         ],
         "tweets": []
+    },
+    "DELL": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": [
+          {
+                "uuid": "e8e813c9-e332-4cab-a6cb-79ade8831a9e",
+                "comment": "Dell is the leading PC, server, and storage OEM... All parts that are required to fuel the AI transition."
+            }
+        ],
+    },
+    "CEG": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": [
+          {
+                "uuid": "e8e813c9-e332-4cab-a6cb-79ade8831a9e",
+                "comment": "Constellation Energy is the leading Nuclear Power generation company in the unregulated part of the US market, the AI buildout requires vasts amounts of power and CEG will provide it."
+            }
+        ],
+    },
+    "ETN": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": [
+          {
+                "uuid": "e8e813c9-e332-4cab-a6cb-79ade8831a9e",
+                "comment": "Leading power generation company for data centers. Another pick-and-shovel name that powers AI."
+            }
+        ],
     }
 }
