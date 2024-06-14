@@ -70,7 +70,6 @@ with open('theme.csv') as file:
 | TSLA | Tesla uses AI for its autonomous driving technology and energy solutions, making it a direct beneficiary of AI advancements. | chat_gpt,google |
 | AI | C3.ai provides enterprise AI software for various industries, offering a comprehensive platform for developing and deploying AI applications. | claude,google |
 | AMAT | Applied Materials supplies equipment used in the manufacturing of AI chips, benefiting from the expanding production of these specialized processors. | claude |
-| ASML | ASML Holding offers advanced lithography systems that are crucial for the production of cutting-edge AI chips, making it a key beneficiary of the AI chip boom. | claude |
 | DLR | Digital Realty Trust owns and operates data centers that host AI workloads and support AI-driven businesses, benefiting from the growing demand for AI infrastructure. | claude,google |
 | EQIX | Equinix operates data centers that support AI infrastructure and connectivity, providing the foundation for businesses to run AI workloads and collaborate on AI projects. | claude,google |
 | LRCX | Lam Research provides chip manufacturing equipment, experiencing growth as chipmakers ramp up production of AI-optimized chips. | claude |
