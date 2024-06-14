@@ -287,12 +287,6 @@
         "search_articles": [],
         "tweets": []
     },
-    "ASML": {
-        "chat_gpt": null,
-        "claude": "ASML Holding offers advanced lithography systems that are crucial for the production of cutting-edge AI chips, making it a key beneficiary of the AI chip boom.",
-        "search_articles": [],
-        "tweets": []
-    },
     "DLR": {
         "chat_gpt": null,
         "claude": "Digital Realty Trust owns and operates data centers that host AI workloads and support AI-driven businesses, benefiting from the growing demand for AI infrastructure.",
